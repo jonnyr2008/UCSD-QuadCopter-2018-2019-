@@ -7,6 +7,10 @@ This repository stores all files of our team as well as URLs to all other reposi
 
 [IEEE UCSD Student branch/QuadCopter Prj 2018-2019](https://drive.google.com/drive/u/1/folders/0AGL5ImeNzr94Uk9PVA)
 
+# Meeting Notes
+
+https://drive.google.com/open?id=1Vw95HLTEWjQ5RHt4fmYl_jzmtXQ-JDC4
+
 # First Prototype 
 
 * Description/websites/images/diagrams/abstractions:
