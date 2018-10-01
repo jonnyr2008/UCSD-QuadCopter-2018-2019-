@@ -3,6 +3,10 @@ UCSD IEEE Student branch: 2018-2019 QuadCopter Project Team Repository  [IARC Co
 
 This repository stores all files of our team as well as URLs to all other repository/sites/drive that stores our files.
 
+[IARC Competition Website](http://www.aerialroboticscompetition.org/)
+
+[Competition Rules V2.0](http://www.aerialroboticscompetition.org/assets/downloads/mission8rules_2.0.pdf)
+
 # Administration
 * [Admin & Finance (Authorized Personnel only)](https://drive.google.com/drive/u/1/folders/0AGL5ImeNzr94Uk9PVA)
 * [Logistics](https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Markdowns/01.Logistics.md)
