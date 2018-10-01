@@ -19,11 +19,11 @@ Objectives: Build a prototype drone that can automatically take off, hover witho
 
 SolidWorks Img:
 
-<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/SolidWorks.PNG" alt="SolidWorks Img" width="200">
+<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/SolidWorks.PNG" alt="SolidWorks Img" width="350">
 
 Electrical System Abstract:
 
-<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/Electrical%20Hardware%20System%20Abstract.PNG" alt="Electrical System Abstract" width="350"/>
+<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/Electrical%20Hardware%20System%20Abstract.PNG" alt="Electrical System Abstract" width="200"/>
 
 
 
