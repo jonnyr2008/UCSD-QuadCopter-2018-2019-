@@ -15,7 +15,9 @@ This repository stores all files of our team as well as URLs to all other reposi
 
 Objectives: Build a prototype drone that can automatically take off, hover without drifting, and safely land. The primary focus on this prototype is to build a controllable flying platform for future development, thus, most attention shines on flight control with rudimentary CV system as an aid for anti-drifting.
 
-![Electrical System Abstract](https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/Electrical%20Hardware%20System%20Abstract.PNG)
+![Electrical System Abstract]()
+
+<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/Electrical%20Hardware%20System%20Abstract.PNG" alt="drawing" width="200"/>
 
 ###  Repositories & Drives
 
