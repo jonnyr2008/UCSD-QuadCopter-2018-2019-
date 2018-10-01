@@ -21,6 +21,7 @@ This repository stores all files of our team as well as URLs to all other reposi
 * Electrical and PCB files:
 * Mechanical and Solidworks files:
 * Communication:
+* Andriod App Dev:
 * Math:
 * Papers:
 
@@ -32,9 +33,15 @@ This repository stores all files of our team as well as URLs to all other reposi
 
 # Supplementary Resources
 
-* [UZH Website](http://rpg.ifi.uzh.ch/software_datasets.html)
+* [UZH Website: Robotics & Perception](http://rpg.ifi.uzh.ch/software_datasets.html)
+* [ROS](https://robots.ros.org/tags/#quadrotor)
 * [ORB-SLAM](http://webdiis.unizar.es/~raulmur/orbslam/)
-* [Zihao's repo](https://github.com/ZihaoZhou/Anti-entrophy)
+* [ORBBEC-3D](https://orbbec3d.com/bodytracking-sdk/)
+* [Intell RealSense](https://software.intel.com/en-us/realsense/sr300)
+* [Cornell University Library CVPR Papers](https://arxiv.org/list/cs.CV/recent)
+* [Quad Control Algorithm Paper by Gopalakrishnan](https://dspace.cvut.cz/bitstream/handle/10467/68636/F3-DP-2017-Gopalakrishnan-Eswarmurthi-Master%20Thesis.pdf)
+* [A Review of Control Algorithms for Autonomous Quadrotors](https://arxiv.org/ftp/arxiv/papers/1602/1602.02622.pdf)
+* [Zihao's repo (in Chinese)](https://github.com/ZihaoZhou/Anti-entrophy)
 
 
 
