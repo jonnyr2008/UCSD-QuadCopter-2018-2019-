@@ -13,16 +13,23 @@ This repository stores all files of our team as well as URLs to all other reposi
 
 # First Prototype 
 
-* Description/websites/images/diagrams/abstractions:
+Objectives: Build a prototype drone that can automatically take off, hover without drifting, and safely land. The primary focus on this prototype is to build a controllable flying platform for future development, thus, most attention shines on flight control with rudimentary CV system as an aid for anti-drifting.
+
+![Electrical System Abstract]()
+
+###  Repositories & Drives
+
 * Embedded System: 
   * [STM32-HAL-Academy](https://github.com/TsunamiTTT/STM32-HAL-Academy), contains a customized stm32 Library based on official HAL(hardware abstraction) library that provides simplified APIs serving as drivers for common stm32 functionalities.
   * [UCSD_IARC_FirmwareDev](https://github.com/Ayilay/UCSD_IARC_FirmwareDev), a customized driver library containing APIs for specific hardware used on our first prototype, such as ESCs, IMU(MEMS), Communication, etc.
 * Computer Vision:
 * Electrical and PCB files:
 * Mechanical and Solidworks files:
-* Communication:
+* Communication System: N/A
 * Andriod App Dev:
 * Math:
+  * [Control](https://github.com/TsunamiTTT/QuadCopter-Math/tree/master/Control)
+  * [AI/ML/CV](https://github.com/TsunamiTTT/QuadCopter-Math/tree/master/AI%20%26%20ML%20%26%20CV)
 * Papers:
 
 
