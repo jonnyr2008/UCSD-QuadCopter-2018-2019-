@@ -33,7 +33,9 @@ PCB:
 
 <img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/PCB.PNG" alt="PCB Layout" width="170">								<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/Schematics.PNG" alt="PCB Schematics" width="360">
 
+eCal:
 
+<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/eCal%20Screen%20Shot%201.PNG" alt="eCal" width="300">
 
 
 
