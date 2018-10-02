@@ -29,6 +29,10 @@ Electrical System Abstract:
 
 <img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/Electrical%20Hardware%20System%20Abstract.PNG" alt="Electrical System Abstract" width="200"/>
 
+PCB Layout:
+
+<img src="https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Images/PCB.PNG" alt="PCB Layout">
+
 
 
 
