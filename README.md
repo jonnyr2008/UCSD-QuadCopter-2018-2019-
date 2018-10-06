@@ -46,7 +46,7 @@ eCal:
   * [UCSD_IARC_FirmwareDev](https://github.com/Ayilay/UCSD_IARC_FirmwareDev), a customized driver library containing APIs for specific hardware used on our first prototype, such as ESCs, IMU(MEMS), Communication, etc.
 * Computer Vision:
 * Electrical and PCB files:
-* Mechanical and Solidworks files:
+* Mechanical and Solidworks files: [Solidworks](https://drive.google.com/open?id=1t28x4iKT08UrYZLnEa3A44xqwgLX1dZ6)
 * Communication System: N/A
 * Andriod App Dev:
 * Math:
