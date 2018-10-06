@@ -45,9 +45,10 @@ eCal:
   * [STM32-HAL-Academy](https://github.com/TsunamiTTT/STM32-HAL-Academy), contains a customized stm32 Library based on official HAL(hardware abstraction) library that provides simplified APIs serving as drivers for common stm32 functionalities.
   * [UCSD_IARC_FirmwareDev](https://github.com/Ayilay/UCSD_IARC_FirmwareDev), a customized driver library containing APIs for specific hardware used on our first prototype, such as ESCs, IMU(MEMS), Communication, etc.
 * Computer Vision:
-* Electrical and PCB files:
-* Mechanical and Solidworks files: [Solidworks](https://drive.google.com/open?id=1t28x4iKT08UrYZLnEa3A44xqwgLX1dZ6)
-* Communication System: N/A
+* Hardware: [Hardware Main Folder](https://drive.google.com/open?id=1t28x4iKT08UrYZLnEa3A44xqwgLX1dZ6)
+  * 3D Mechanical Design:  [Solidworks](https://drive.google.com/open?id=16jMgx09bTXuZzeh1FNEu3-k0MFozuMtt)
+  * PCB Altium: [Altium](https://drive.google.com/open?id=1g3WHkZ5UF4HZ6E0bS7spDcY0aKLg3HT7)
+  * Communication System: N/A
 * Andriod App Dev:
 * Math:
   * [Control](https://github.com/TsunamiTTT/QuadCopter-Math/tree/master/Control)
