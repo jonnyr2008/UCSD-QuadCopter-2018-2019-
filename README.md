@@ -8,9 +8,9 @@ This repository stores all files of our team as well as URLs to all other reposi
 [Competition Rules V2.0](http://www.aerialroboticscompetition.org/assets/downloads/mission8rules_2.0.pdf)
 
 # Administration
-* [Admin & Finance (Authorized Personnel only)](https://drive.google.com/drive/u/1/folders/0AGL5ImeNzr94Uk9PVA)
+* [Admin and Finance (Authorized Personnel only)](https://drive.google.com/drive/u/1/folders/0AGL5ImeNzr94Uk9PVA)
 * [Logistics](https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Markdowns/01.Logistics.md)
-* [Team Plan Overview](https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Markdowns/02.Team%20Plan%20Overview.md)
+* [Development Plan Overview](https://github.com/TsunamiTTT/UCSD-QuadCopter-2018-2019-/blob/master/00.Non-Technical%20Resources/Markdowns/02.Team%20Plan%20Overview.md)
 * [Meeting Notes](https://drive.google.com/open?id=1Vw95HLTEWjQ5RHt4fmYl_jzmtXQ-JDC4)
 
 
