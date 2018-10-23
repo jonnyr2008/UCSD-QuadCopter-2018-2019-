@@ -17,7 +17,7 @@ This repository stores all files of our team as well as URLs to all other reposi
 
 # First Prototype 
 
-Objectives: Build a prototype drone that can automatically take off, hover without drifting, and safely land. The primary focus on this prototype is to build a controllable flying platform for future development, thus, most attention shines on flight control with rudimentary CV system as an aid for anti-drifting.
+Objectives: Building a prototyping drone with abilities including but not limited to automatically taking off, hovering indoor without drifting, and safely landing. This prototype development primarily focuses on the **control** aspects and serves as a introductory course for us to gain firsthand experience.
 
 
 
@@ -39,27 +39,43 @@ eCal:
 
 
 
-###  Repositories & Drives
+###  Development Repositories and Drives
+
+----------------------
 
 * Embedded System: 
   * [STM32-HAL-Academy](https://github.com/TsunamiTTT/STM32-HAL-Academy), contains a customized stm32 Library based on official HAL(hardware abstraction) library that provides simplified APIs serving as drivers for common stm32 functionalities.
   * [UCSD_IARC_FirmwareDev](https://github.com/Ayilay/UCSD_IARC_FirmwareDev), a customized driver library containing APIs for specific hardware used on our first prototype, such as ESCs, IMU(MEMS), Communication, etc.
+
+----------------
+
+* Simulations: 
+  * [IMU Attitude Graphical Simulator]()
+
+------------------------
+
 * Computer Vision:
+
+-------------------
+
 * Hardware: [Hardware Main Folder](https://drive.google.com/open?id=1t28x4iKT08UrYZLnEa3A44xqwgLX1dZ6)
   * 3D Mechanical Design:  [Solidworks](https://drive.google.com/open?id=16jMgx09bTXuZzeh1FNEu3-k0MFozuMtt)
   * PCB Altium: [Altium](https://drive.google.com/open?id=1g3WHkZ5UF4HZ6E0bS7spDcY0aKLg3HT7)
-  * Communication System: N/A
-* Andriod App Dev:
+  * Experimental Apparatus:
+
+----------------------------------
+
 * Math:
   * [Control](https://github.com/TsunamiTTT/QuadCopter-Math/tree/master/Control)
   * [AI/ML/CV](https://github.com/TsunamiTTT/QuadCopter-Math/tree/master/AI%20%26%20ML%20%26%20CV)
-* Papers:
+
+----------------------------
 
 
 
 # Second Prototype
 
-
+COMMING SOON
 
 # Supplementary Resources
 
